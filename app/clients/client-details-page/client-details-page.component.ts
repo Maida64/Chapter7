@@ -48,3 +48,4 @@ export class ClientDetailsPageComponent implements OnInit {
     this.router.navigateByUrl('/clients/search');
   }
 }
+

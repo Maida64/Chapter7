@@ -36,3 +36,4 @@ export class ClientSearchPageComponent implements OnInit {
     });
   }
 }
+
